@@ -1,7 +1,7 @@
 # Time-Series-Classification
 This is a project for my machine learning course focusing on classification of time series. I aim to classify the activities of humans based on time series obtained by a Wireless Sensor Network.
 
-# Data Sourse:
+# Data Source:
 https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+\%28AReM\%29
 
 # Data Description:
